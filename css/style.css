@@ -1,0 +1,86 @@
+h1 { 
+	padding: .2em; 
+	margin: 0; 
+}
+.lead{
+	margin-bottom: 5px !important;
+}
+#team-members { 
+	float:left; 
+	width: 300px; 
+	margin-right: 2em;
+}
+
+#products ul li, #catalog ul li, ol li{
+	list-style: none;
+}
+
+#cart { 
+	float: left; 
+	margin-top: 1em; 
+}
+
+#cart ol { 
+	margin: 0; 
+	padding: 1em 0 1em 3em; 
+}
+
+#proj_title{
+	display: none;
+}
+
+.ui-widget-content{
+	border: 0px;
+}
+
+#team ul li{
+	list-style: none;
+}
+
+#team ul li{
+	font-size: 14px;
+	padding: 10px 15px;
+	background-color: #5bc0de;
+	margin-bottom: 10px;
+	color: #fff;
+}
+
+.team-members{
+	background-color: #01CD78;
+	color: white;
+	margin: 5px 0;
+	padding: 5px;
+	cursor: pointer;
+	z-index: 100;
+	text-align: center;
+}
+
+.proj-item {
+	width: 80%;
+	background-color: #eee !important;
+	padding: 1px 10px;
+	margin-top: 10px;
+}
+
+#proj_list{
+	padding: 0px;
+}
+
+.drop-me-here{
+	/*background-color: #337ab7;*/
+	font-weight: bolder;
+	text-decoration: blink;
+}
+.drop-me-hover{
+	background-color: bisque;
+	padding: 10px 0;
+}
+
+.tete{
+	width: 80%;
+	margin: 0 auto;
+	background-color: aquamarine;
+	padding: 10px;
+	font-weight: 500;
+	margin-bottom: 10px;
+}
